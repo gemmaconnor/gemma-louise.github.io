@@ -119,23 +119,23 @@ color: #d5d5d5;
   top: 40%;
 }
 .carousel-caption h1 {
-  font-size: 250%;
+  font-size: 100%;
 }
 .carousel-caption h3 {
-  font-size: 110%;
+  font-size: 70%;
   font-weight: 400;
 
   padding-bottom: .2rem;
 }
 .carousel-caption .btn {
-  font-size: 90%;
+  font-size: 50%;
   padding: 4px 8px;
 }
 /*---.carousel indicators {
   display: none;
 }---*/
 .display-4 {
-  font-size:160%;
+  font-size:100%;
 }
 .social a {
   font-size: 2em;
